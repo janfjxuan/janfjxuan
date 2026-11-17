@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**janfjxuan/janfjxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Janelle! 👋
 
-Here are some ideas to get you started:
+I'm a Computer Science and Design undergraduate
+at the Singapore University of Technology and Design
+(SUTD).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about building user-centred digital
+experiences that combine thoughtful design with
+functional technology.
+
+## 🛠️ Technical Skills
+
+**Design:** Figma, User Research, Wireframing,
+Prototyping, Usability Testing
+
+**Frontend:** HTML, CSS, JavaScript, React
+
+**Backend:** Python, Node.js, MySQL
+
+**Tools:** GitHub, Firebase, VS Code
+
+## 🚀 Featured Projects
+
+### Birky – 2D Precision Platformer
+A Unity-based platformer featuring unique abilities,
+precision movement, and custom pixel art.
+
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/janellefoong 
+- Portfolio: https://janellefoong.wixsite.com/janelleportfolio 
+
