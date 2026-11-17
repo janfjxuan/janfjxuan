@@ -14,12 +14,14 @@ functional technology.
 **Design:** Figma, User Research, Wireframing,
 Prototyping, Usability Testing
 
+**Programming Languages:** Python, Java, C, C++,
+C#, JavaScript
+
 **Frontend:** HTML, CSS, JavaScript, React
 
-**Backend:** Python, Node.js, MySQL
+**Backend:** Node.js, MySQL, RESTful APIs
 
-**Tools:** GitHub, Firebase, VS Code
-
+**Tools:** GitHub, Firebase, Postman, VS Code
 ## 🚀 Featured Projects
 
 Coming soon! Currently organising my projects.
