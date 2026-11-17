@@ -22,10 +22,7 @@ Prototyping, Usability Testing
 
 ## 🚀 Featured Projects
 
-### Birky – 2D Precision Platformer
-A Unity-based platformer featuring unique abilities,
-precision movement, and custom pixel art.
-
+Coming soon! Currently organising my projects.
 
 ## 📫 Connect With Me
 
